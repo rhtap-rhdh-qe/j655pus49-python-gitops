@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j655pus49-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/j655pus49-python
